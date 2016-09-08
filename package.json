@@ -1,6 +1,6 @@
 {
   "name": "cj-example",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Working up a close version of Mike Amundsen's Collection-JSON examples from his book RESTful Web Clients",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,9 @@
   },
   "author": "Michael Harrison",
   "license": "UNLICENSED",
-  "private": true
-
+  "private": true,
+  "dependencies": {
+    "express": "^4.14.0",
+    "sqlite3": "^3.1.4"
+  }
 }
