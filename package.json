@@ -1,11 +1,17 @@
 {
   "name": "cj-example",
-  "version": "1.0.0",
+  "version": "0.1",
   "description": "Working up a close version of Mike Amundsen's Collection-JSON examples from his book RESTful Web Clients",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goodmike/restful-todos-node"
+  },
+  "author": "Michael Harrison",
+  "license": "UNLICENSED",
+  "private": true
+
 }
